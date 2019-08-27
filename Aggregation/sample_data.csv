@@ -1,0 +1,5 @@
+_id,b_id,book_name,price,stock
+ObjectId("5d650d340a523a33207db2b4"),101,Where the Crawdads Sing,29.99,5
+ObjectId("5d650fa9176a703320a997f5"),102,A Dream of Red Mansions,19.90,100
+ObjectId("5d651043176a703320a997f6"),101,The Secret Book of Kings,13,20
+ObjectId("5d6510ec176a703320a997f7"),103,Passover Haggadah Graphic Novel,52.90,20
