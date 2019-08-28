@@ -10,6 +10,8 @@ This tutorial will be continuously updated.
 
 [The Pipeline Aggregation](https://github.com/century21ofdev/Python_MongoDB_Tutorial/blob/master/Aggregation/aggregation_pipeline.py)
 
+[The Single Purpose Aggregation](https://github.com/century21ofdev/Python_MongoDB_Tutorial/blob/master/Aggregation/single_purpose_aggregation.py)
+
 
 
 ##### CRUD Operations
